@@ -1,0 +1,34 @@
+_repo: OEuvres-completes-de-Gustave-Flaubert-tome-4-L-education-sentimentale-v-2_52893
+_version: 0.0.1
+alternative_title: 'OEuvres complètes de Gustave Flaubert, tome 4: L''éducation sentimentale,
+  v. 2'
+creator:
+  author:
+    agent_name: Flaubert, Gustave
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '574'
+    url: http://www.gutenberg.org/2009/agents/574
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2016-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52893'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- History -- June Days, 1848 -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'France -- History -- February Revolution, 1848 -- Fiction'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Unrequited love -- Fiction'
+- GITenberg
+title: 'Œuvres complètes de Gustave Flaubert, tome 4: L''éducation sentimentale, v.
+  2'
+url: http://www.gutenberg.org/ebooks/52893
