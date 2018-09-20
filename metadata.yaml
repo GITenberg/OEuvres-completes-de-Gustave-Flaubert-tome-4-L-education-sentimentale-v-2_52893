@@ -1,7 +1,10 @@
 _repo: OEuvres-completes-de-Gustave-Flaubert-tome-4-L-education-sentimentale-v-2_52893
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'OEuvres complètes de Gustave Flaubert, tome 4: L''éducation sentimentale,
   v. 2'
+covers:
+- cover_type: archival
+  image_path: 52893-h/images/cover.jpg
 creator:
   author:
     agent_name: Flaubert, Gustave
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/574
     wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52893#OEuvres-completes-de-Gustave-Flaubert-tome-4-L-education-sentimentale-v-2
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2016-08-25'
 gutenberg_type: Text
